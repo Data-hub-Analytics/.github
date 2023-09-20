@@ -20,5 +20,6 @@ This project involves the development of an innovative app that predicts human v
 - Calculation of Sed and R values to evaluate potential health effects.
 - Collaboration with a diverse team of developers and researchers from India and Canada.
 
-
+###Figma
+- [Link](https://www.figma.com/file/PgCW6GmxQ0EcCbNzS0NivB/Data-Hub?type=design&node-id=164%3A5039&mode=design&t=m8CpQ1o961wPeYsG-1)
 
