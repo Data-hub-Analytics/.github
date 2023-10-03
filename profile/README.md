@@ -1,4 +1,4 @@
-# Lumbar Spine Measurement App
+# Lumbar Spine Measurement Project
 
 Welcome to the Lumbar Spine Measurement App repository! This collaborative project with Polytechnique Montreal aims to predict human vibration responses while sitting on various vehicles. The app features a sleek user interface for data visualization and offers insights into potential adverse health effects due to vibration exposure.
 
