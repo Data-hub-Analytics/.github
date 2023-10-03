@@ -24,9 +24,9 @@ This project involves the development of an innovative app that predicts human v
 - [Link](https://www.figma.com/file/PgCW6GmxQ0EcCbNzS0NivB/Data-Hub?type=design&node-id=164%3A5039&mode=design&t=m8CpQ1o961wPeYsG-1)
 
 ## Developers
-- [Anshdeep singh Devops and Fullstack developer](https://github.com/anshd258)
-- [Kanishk Chhabra Fullstack Web and Native-App developer](https://github.com/mrkc2303)
-- [Balvinder Singh UI UX and Product designer](https://github.com/dexterousb)
-- [Gagandeep kaur Fullstack Web and Flutter-App developer](https://github.com/gagandeepkaur15)
-- [Tanmaydeep Singh Fullstack Web, ML, Web3 Developer](https://github.com/Tanmaydeep-Singh)
+- [<h3>Anshdeep singh<h3/> Devops and Fullstack developer](https://github.com/anshd258)
+- [<h3>Kanishk Chhabra<h3/> Fullstack Web and Native-App developer](https://github.com/mrkc2303)
+- [<h3>Balvinder Singh<h3/> UI UX and Product designer](https://github.com/dexterousb)
+- [<h3>Gagandeep kaur <h3/>Fullstack Web and Flutter-App developer](https://github.com/gagandeepkaur15)
+- [<h3>Tanmaydeep Singh<h3/> Fullstack Web, ML, Web3 Developer](https://github.com/Tanmaydeep-Singh)
 
